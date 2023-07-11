@@ -319,7 +319,7 @@ var pp = {"ajax_url":"http:\/\/georgiamicrofiber.com\/wp-admin\/admin-ajax.php"}
 	<link rel='stylesheet' id='fluent-form-styles-css' href='http://georgiamicrofiber.com/wp-content/plugins/fluentform/assets/css/fluent-forms-public.css?ver=5.0.6' media='all' />
 <link rel='stylesheet' id='fluentform-public-default-css' href='http://georgiamicrofiber.com/wp-content/plugins/fluentform/assets/css/fluentform-public-default.css?ver=5.0.6' media='all' />
 <script id='eae-main-js-extra'>
-var eae = {"ajaxurl":"http:\/\/georgiamicrofiber.com\/wp-admin\/admin-ajax.php","current_url":"aHR0cDovL2dlb3JnaWFtaWNyb2ZpYmVyLmNvbS93cC1jb250ZW50L3BsdWdpbnMvYmR0aGVtZXMtZWxlbWVudC1wYWNrLWxpdGUvaW1hZ2VzL2JhY2tncm91bmRzL2Zvcm0tZGF0YWxpc3Quc3ZnLw==","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600}};
+var eae = {"ajaxurl":"http:\/\/georgiamicrofiber.com\/wp-admin\/admin-ajax.php","current_url":"aHR0cDovL2dlb3JnaWFtaWNyb2ZpYmVyLmNvbS93cC1jb250ZW50L3BsdWdpbnMvcHJlbWl1bS1hZGRvbnMtZm9yLWVsZW1lbnRvci9hc3NldHMvcGx1Z2lucy9wcmVtaXVtLWFkZG9ucy1mb3ItZWxlbWVudG9yL2Fzc2V0cy9lZGl0b3IvZm9udHMvcGEtZWxlbWVudHMud29mZj92Y3d5MnMv","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600}};
 var eae_editor = {"plugin_url":"http:\/\/georgiamicrofiber.com\/wp-content\/plugins\/addon-elements-for-elementor-page-builder\/"};
 </script>
 <script src='http://georgiamicrofiber.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.12.3' id='eae-main-js'></script>
